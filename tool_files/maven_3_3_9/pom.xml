@@ -51,13 +51,13 @@
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20170516</version>
+      <version>20230227</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk -->
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-java-sdk</artifactId>
-      <version>1.11.136</version>
+      <version>1.12.458</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-server -->
     <dependency>
