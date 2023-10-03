@@ -57,7 +57,7 @@
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-java-sdk</artifactId>
-      <version>1.11.136</version>
+      <version>1.12.561</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-server -->
     <dependency>
@@ -97,7 +97,7 @@
       <dependency>
           <groupId>com.google.googlejavaformat</groupId>
           <artifactId>google-java-format</artifactId>
-          <version>1.5</version>
+          <version>1.18.0</version>
       </dependency>
       <dependency>
           <groupId>org.reflections</groupId>
