@@ -51,7 +51,7 @@
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20170516</version>
+      <version>20231013</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk -->
     <dependency>
@@ -69,7 +69,7 @@
       <dependency>
           <groupId>org.eclipse.jetty</groupId>
           <artifactId>jetty-servlet</artifactId>
-          <version>9.4.5.v20170502</version>
+          <version>9.4.11.v20180605</version>
       </dependency>
       <!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
       <dependency>
