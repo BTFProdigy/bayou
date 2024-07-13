@@ -1,5 +1,5 @@
 # start with Ubuntu 16.04 base
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 RUN apt-get update && apt-get install -y apt-utils git
 
 # clone Bayou
